@@ -36,7 +36,6 @@
      </div>
         <button type="submit" class="button" name ="submit">Submit</button>
 </div>
-    </form>
   
 </body>
 </html>
